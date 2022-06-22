@@ -1,2 +1,2 @@
-print('na2')
+print('n2')
 
